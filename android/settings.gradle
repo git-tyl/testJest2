@@ -1,0 +1,3 @@
+rootProject.name = 'testJest2'
+
+include ':app'
